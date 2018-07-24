@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<head>
+<title>POONAM KAUR</title>
+<style>
+img{
+  height:200px;
+  width: 200px;
+  border: solid 10px;
+  color: magenta;
+  : 30px;
+  
+}
+body {
+text-align: center;
+background: url("http://i.imgur.com/7Lp8zC7.jpg");
+background-position: center;
+background-size: cover;
+color: yellow;
+font-family: cursive;
+  }
+  p {
+    font-size: 35px;
+    }
+    input{
+      border: 0;
+      padding: 15px;
+      font-size: 18px;
+    }
+    input[type="SUBMIT"] {
+      background: red;
+      color: white;
+    }
+</style>
+</head>
+<body>
+<img src="https://imgur.com/LynIB82.jpg">
+<p>HII..!! THIS IS POONAM KAUR..SAY HELLO</p>
+<input type="EMAIL" placeholder="YOUR EMAIL">
+<input type="Password" placeholder="ENTER PASSWORD">
+<input type="Submit">
+</body>
