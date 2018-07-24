@@ -1,0 +1,34 @@
+<Create a document that uses multiple br and p tags , and put returns between pre tags to add blank lines to your document.
+See if your browser senders them differently.>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Document 6.</title>
+</head>
+<body style="background:rgba(0,0,128,0.2);">
+
+
+<body>
+
+
+<pre>
+
+
+
+<h1 style="font-family:algerian; color:black;">                  WELCOME TO GURU NANAK INSTITUTIONS</h1></pre> 
+<pre><h3>                                             HEMA MAJRA ROAD
+		                             MULLANA, AMBALA</h3></pre>
+<pre>
+
+
+<p style="font-family:arial; color:#FF0000;">Managed by Mela Singh Memorial <br/>
+Educational Trust<br/></p>
+
+
+<h2>Principle: Dr. D.K MAHARAJ</h2> 
+
+
+</pre>											
+</body>
+</html>
