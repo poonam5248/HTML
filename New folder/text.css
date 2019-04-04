@@ -1,0 +1,51 @@
+h1
+{
+	float:right;
+	opacity: 0.5;
+	border-radius: 25px;
+     font-size:60px;
+     font-style:underlined;
+	color:blue;
+	background:yellow;
+	text-decoration:underline ;
+	margin-left:100px;
+	margin-right:100px;
+}
+.oblique{
+		font-style: oblique;
+		color: yellow; 
+}
+.tnr
+{
+		font-family: "Times New Roman", Times, serif;
+		color: blue;
+}
+.italic{
+		 font-style: italic;
+		 color: green;
+}
+body
+{
+	background:url("bck.jpg");
+	background-repeat: repeat -y;
+	background-position: center;
+}
+table
+{
+	background:red;
+	opacity: 0.5;
+	font-size:40px;
+	text-decoration:none;
+	margin-left:150px;
+}
+a{
+	color:black;
+	text-decoration: none;
+}
+img
+{
+	height:300px;
+	align:center;
+	display:inline;
+	width:350px;
+}

@@ -1,0 +1,52 @@
+h1
+{
+	float:left;
+	opacity: 0.8;
+	border-radius: 25px;
+     font-size:60px;
+     font-style:underlined;
+	color:white;
+	background:red;
+	text-decoration:underline ;
+	margin-left:100px;
+	margin-right:100px;
+}
+.oblique{
+		font-style: oblique;
+		color: yellow; 
+}
+.tnr
+{
+		font-family: "Times New Roman", Times, serif;
+		color: yellow;
+}
+.italic{
+		 font-style: italic;
+		 color: yellow;
+}
+body
+{
+	background:url("gni12.jpg");
+	background-repeat: repeat -y;
+	background-position: center;
+}
+table
+{
+	background:blue;
+
+	font-size:40px;
+	text-decoration:none;
+	margin-left:150px;
+
+}
+a{
+	color:black;
+	text-decoration: none;
+}
+img
+{
+	height:300px;
+	align:center;
+	display:inline;
+	width:350px;
+}

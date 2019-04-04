@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta name="viewport" content="width=device-width,initial-scale=1">
+    <style>
+	body{
+	  text-align:center;
+	  font-size:25px;
+       }
+	 
+	 </style>
+   <div id="myDIV">For My Hobbies Click</div>
+   <h1><button onclick="myFunction()">Click Here</button></h1>
+   
+   <script>
+    function myFunction(){
+	 var x = document.getElementById("myDIV");
+	 if(x.innerHTML == "Hello"){
+	    x.innerHTML == "Swapped text!";
+	 }
+	 else{
+	  x.innerHTML = "My Favourite Hobbies are: <br><br>Playing Cricket<br> Reading Books<br>Listening Music<br>Gardening</ul>";
+	 }
+	}
+	</script>
+  </body>
+</html>
